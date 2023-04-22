@@ -1,6 +1,4 @@
 ## Simple React Calculator
-A Calculator Using React JS - https://maniruzzamanakash.github.io/react-calculator/
-
 ## Demo Look
 
 ## Start With This Calculator
