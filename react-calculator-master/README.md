@@ -1,5 +1,3 @@
-## Simple React Calculator
-## Demo Look
 
 ## Start With This Calculator
 
